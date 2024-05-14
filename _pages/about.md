@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Zhouhan's testing website
-
-A data-driven personal website
+This is Zhouhan's website
 ======
 
 Hello World!!
