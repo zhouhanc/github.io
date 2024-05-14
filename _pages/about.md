@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Zhouhan's website
+Say something here
 ======
 
 Hello World!!
